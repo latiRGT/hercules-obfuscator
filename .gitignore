@@ -24,3 +24,5 @@ Temporary Items
 file_obfuscated.lua
 file.lua
 tests/
+
+src/config.lua
